@@ -1,2 +1,2 @@
 # Employee Attrition
-[Landscape_1.jpg](images)
+![image.png](images/Landscape_1.jpg)
